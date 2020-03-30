@@ -1,2 +1,2 @@
 # StudyNotes
-https://github.com/ch1lamLee/StudyNotes/wiki
+配合chrome插件[Octotree]https://www.octotree.io/
