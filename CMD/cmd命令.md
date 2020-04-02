@@ -34,7 +34,7 @@
 `attrib +h c:\MyTxt.txt`
 清除 c:\盘中的 MyTxt.txt 文本文件的隐藏属性
 `attrib -h c:\MyTxt.txt`
-  
+
 **2. 给文件添加多个属性和清除多个属性**
 给 c:\盘中的 MyTxt.txt 文本文件添加只读属性和隐藏属性
 `attrib +r +h c:\MyTxt.txt`
